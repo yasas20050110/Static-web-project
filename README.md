@@ -58,42 +58,6 @@ The project demonstrates the fundamental concepts of front-end web development, 
 
 ## 📁 Project Structure
 
-```text
-Laptop-Store/
-│
-├── View/
-│   ├── index.html
-│   ├── about.html
-│   ├── products.html
-│   ├── services.html
-│   └── contact.html
-│
-├── css/
-│   ├── style.css
-│   ├── about.css
-│   ├── products.css
-│   ├── services.css
-│   └── contact.css
-│
-├── controller/
-│   └── script.js
-│
-├── model/
-│   └── data.js
-│
-├── images/
-│   ├── banner.jpg
-│   ├── laptop1.jpg
-│   ├── laptop2.jpg
-│   ├── laptop3.jpg
-│   ├── laptop4.jpg
-│   └── ...
-│
-└── README.md
-```
-
----
-
 ## 📱 Responsive Design
 
 The website is fully responsive and supports:
