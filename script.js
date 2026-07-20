@@ -1,6 +1,6 @@
-// ================================
+
 // Mobile Navigation Menu
-// ================================
+
 
 const menuToggle = document.querySelector(".menu-toggle");
 const navLinks = document.querySelector(".nav-links");
@@ -26,9 +26,9 @@ if (menuToggle) {
 }
 
 
-// ================================
-// Contact Form Validation
-// ================================
+
+// from Validation
+
 
 const contactForm = document.getElementById("contactForm");
 
@@ -73,9 +73,9 @@ if (contactForm) {
 }
 
 
-// ================================
-// Smooth Scroll for Internal Links
-// ================================
+
+// Smooth Scroll  Internal Links
+
 
 document.querySelectorAll('a[href^="#"]').forEach(link => {
 
@@ -96,9 +96,9 @@ document.querySelectorAll('a[href^="#"]').forEach(link => {
 });
 
 
-// ================================
+
 // Welcome Message
-// ================================
+
 
 window.addEventListener("load", () => {
     console.log("Welcome to Laptop Store!");
